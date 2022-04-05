@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="214" started-at="2022-03-22T06:04:53Z" finished-at="2022-03-22T06:04:53Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="214" started-at="2022-03-22T06:04:53Z" finished-at="2022-03-22T06:04:53Z">
+      <class name="org.hiiii.SampleTest">
+        <test-method status="PASS" signature="firstTestCase()[pri:0, instance:org.hiiii.SampleTest@4667ae56]" name="firstTestCase" duration-ms="32" started-at="2022-03-22T06:04:53Z" finished-at="2022-03-22T06:04:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestCase -->
+        <test-method status="PASS" signature="secondtTestCase()[pri:0, instance:org.hiiii.SampleTest@4667ae56]" name="secondtTestCase" duration-ms="7" started-at="2022-03-22T06:04:53Z" finished-at="2022-03-22T06:04:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondtTestCase -->
+        <test-method status="PASS" signature="thirdTestCase()[pri:0, instance:org.hiiii.SampleTest@4667ae56]" name="thirdTestCase" duration-ms="2" started-at="2022-03-22T06:04:53Z" finished-at="2022-03-22T06:04:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTestCase -->
+      </class> <!-- org.hiiii.SampleTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
